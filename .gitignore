@@ -1,0 +1,4 @@
+node_modules/
+
+public/javascripts/chat.js
+public/javascripts/chat_ui.js
